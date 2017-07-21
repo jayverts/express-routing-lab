@@ -36,7 +36,7 @@ router.post('/', function(req,res) {
 });
 
 router.get('/:id/edit', function(req,res) {
-	//edi
+	//edit
 });
 
 router.put('/:id', function(req,res) {
